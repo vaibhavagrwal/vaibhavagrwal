@@ -32,10 +32,5 @@
 <p align="left">
 </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavagrwal&layout=compact&theme=gotham" alt="vaibhavagrwal" /></p>
-<p align="center">
-    <a href="https://github.com/vaibhavagrwal/">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=vaibhavagrwal&layout=compact&theme=gotham" />
-  </a>
-</p>
 <hr>
 <br />
