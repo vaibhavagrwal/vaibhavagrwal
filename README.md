@@ -15,7 +15,6 @@
 </br>
 
 - <strong>Full Stack Developer</strong>
-- Flutter and Spring Boot
 - Competitive Coder
 - Creativity which makes an IMPACT
 - Looking for Opportunities
