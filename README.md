@@ -35,9 +35,12 @@
 <h2 align="center">Github Statistics</h2>
 <p align="left">
 </p>
-<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavagrwal&layout=compact&theme=gotham" alt="vaibhavagrwal" /></p>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vaibhavagrwal&layout=compact&theme=gotham)](https://github.com/vaibhavagrwal/github-readme-stats)
 
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=vaibhavagrwal&show_icons=true&line_height=21&theme=gotham" alt="my github stats" width="500"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavagrwal&layout=compact&theme=gotham" alt="languages" height="165">
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavagrwal&layout=compact&theme=gotham" alt="vaibhavagrwal" /></p>
+  
+</p>
 <hr>
 <br />
