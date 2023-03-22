@@ -35,7 +35,9 @@
 <h2 align="center">Github Statistics</h2>
 <p align="left">
 </p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavagrwal&layout=compact&theme=gotham" alt="vaibhavagrwal" /></p>
+<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavagrwal&layout=compact&theme=gotham" alt="vaibhavagrwal" /></p>
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vaibhavagrwal&layout=compact&theme=gotham)](https://github.com/vaibhavagrwal/github-readme-stats)
 
 <hr>
 <br />
