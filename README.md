@@ -8,9 +8,9 @@
 <a href="https://www.leetcode.com/vaibhavagrwal">
   <img align="left" alt="Vaibhav's Leetcode" width="40px" height="40px" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/vaibhavagrwal">
+<!-- <a href="https://codeforces.com/profile/vaibhavagrwal">
   <img align="left" alt="Vaibhav's Codeforces" width="40px" height="40px" src="https://lh3.googleusercontent.com/WsR_f03nbqW3qZjCZeXUYmnmhSWXo3hQhLX9hgl9QHydCgbXQi_VJeAwnmtuIgTHKdQ=s180-rw" />
-</a>
+</a> -->
 </br>
 </br>
 
